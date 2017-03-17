@@ -1,0 +1,59 @@
+table
+{
+	border-collapse : collapse;
+}
+
+td,th
+{
+	border: 2px black solid;
+}
+
+textarea
+{
+	vertical-align: top;
+}
+
+table
+{
+	margin-top: 1cm;
+}
+
+.ok
+{
+	text-decoration: bold;
+	color : green;
+	font-size : 1.2em;
+	font-family: Arial, 'Times New Roman', Tahoma, sans-serif;
+}
+
+.ko
+{
+	text-decoration: bold;
+	color : red;
+	font-size : 1.2em;
+	font-family: Arial, 'Times New Roman', Tahoma, sans-serif;
+}
+
+li
+{
+	display: inline-block;
+}
+
+.att_uti
+{
+	margin-top: 1cm;
+	border: 3px grey solid;
+	padding-left: 0.4cm;
+}
+
+h1
+{
+	font-family: Tahoma, "Comic Sans MS","Comis Sans",sans-serif;
+	color: red;
+	text-decoration:underline;
+}
+
+h2
+{
+	font-family: Tahoma, "Comic Sans MS","Comis Sans",sans-serif;
+}
